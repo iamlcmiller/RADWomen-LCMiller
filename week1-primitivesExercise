@@ -1,0 +1,22 @@
+    public static void primitivesExercise() {
+        //You do this part!
+
+        //1.  Declare three primitives variables, an Integer, a String and a Decimal
+        	Integer num; 
+          String characters; 
+          Decimal deci; 
+        //2.  Assign values to your three new variables
+			    num = 22; 
+        	characters = 'Here are some characters';
+          deci = 78.2;
+        //3.  Print out your variables to the debug log
+			    System.debug(num);
+        	System.debug(characters);
+        	System.debug(deci); 
+        //4.  Declare an integer variable and assign a value in the same line
+			    Integer anothernum = 56;
+        //5.  Print out your integer to the debug log
+			    System.debug(anothernum);
+    }
+
+}
